@@ -20,7 +20,7 @@
 
 <pre>
 👩‍💻 Hice una recorrida durante un tiempo como programadora hasta que descubrí la puerta que me orientó hacia las bases de datos.
-🔍 Recorrí varias caminos de aprendizaje del área data: Análisis de Datos, Ciencia de Datos, MAchine Learning y Bussiness Intelligence. 
+🔍 Recorrí varios caminos de aprendizaje del área data: Análisis de Datos, Ciencia de Datos, MAchine Learning y Bussiness Intelligence. 
 📈 Decidí orientarme en un camino definitivo y permanecer allí ¿Mi rol? Analista de Datos haciendo uso de SQL, Excel, Power BI, Python para mi uso día a día. 
 🦖 Siempre busco superarme, por lo que no me limito a las herramientas de trabajo mencionada anteriormente, de hecho he utilizado, a modo de ejemplo, R, Tableau, Google Sheets, Looker Studio.
 💻 Escribí algunos artículos propios en <a href="https://medium.com/@daianaelisabetparedes" target="_blank"> Medium.</a>
