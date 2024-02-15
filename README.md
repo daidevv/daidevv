@@ -37,9 +37,7 @@
 	<a href="mailto:daianaelisabetparedes@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a>
  	<a href="https://medium.com/@daianaelisabetparedes"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://www.instagram.com/daia.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://open.spotify.com/user/314dcwrdouktak7nq3egob23u764"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
-
-
+  
 	
 </p>
 
