@@ -25,8 +25,7 @@
 🦖 Siempre busco superarme, por lo que no me limito a las herramientas de trabajo mencionadas anteriormente, de hecho he utilizado, a modo de ejemplo: R, Tableau, Google Sheets, Looker Studio.
 💻 Escribí algunos artículos propios en <a href="https://medium.com/@daianaelisabetparedes" target="_blank"> Medium.</a>
 📔 Me gusta mucho lo visual por lo que también manejo herramientas de Diseño Gráfico. 
-👌 Actualmente busco reforzar mis conocimientos en el idioma Inglés(tengo interés en otros idiomas que también quiero dominar pero por el momento están en lista de espera). 
-🍀 Estoy abierta a oportunidades laborales incluyendo la incorporación a proyectos freelance. 
+👌 Actualmente busco reforzar mis conocimientos en el idioma Inglés. 
 </pre>
 <hr>
 
@@ -54,7 +53,6 @@
   <a href="https://github.com/daidevv"><img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
   <a href="https://github.com/daidevv"><img alt="Power Point" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)"></a>
   <a href="https://github.com/daidevv"><img alt="SQLServer" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></a>
-  <a href="https://github.com/daidevv"><img alt="GoogleAnalytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"></a>
   <a href="https://github.com/daidevv"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></a>
   <a href="https://github.com/daidevv"><img alt="Pycharm" src ="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></a>
   <a href="https://github.com/daidevv"><img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
