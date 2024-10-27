@@ -19,13 +19,13 @@
 
 
 <pre>
-👩‍💻 Hice una recorrida durante un tiempo como programadora hasta que descubrí la puerta que me orientó hacia las bases de datos.
+👩‍💻 Hice una recorrida durante un par de meses como programadora hasta que descubrí la puerta que me orientó hacia las bases de datos.
 🔍 Recorrí varios caminos de aprendizaje del área data: Análisis de Datos, Ciencia de Datos, Machine Learning y Business Intelligence. 
-📈 Decidí orientarme en un camino definitivo y permanecer allí ¿Mi rol? Analista de Datos haciendo uso de SQL, Excel, Power BI, Python para mi uso día a día. 
+📈 Actualmente me desempeño como Business Data Analyst en una empresa. Me conecto con el negocio, comprendo sus necesidades y trabajo en ellas. Utilizo Athena para consultas SQL, Excel y QuickSight como herramienta de visualización.  
 🦖 Siempre busco superarme, por lo que no me limito a las herramientas de trabajo mencionadas anteriormente, de hecho he utilizado, a modo de ejemplo: R, Tableau, Google Sheets, Looker Studio.
 💻 Escribí algunos artículos propios en <a href="https://medium.com/@daianaelisabetparedes" target="_blank"> Medium.</a>
-📔 Me gusta mucho lo visual por lo que también manejo herramientas de Diseño Gráfico. 
-👌 Actualmente busco reforzar mis conocimientos en el idioma Inglés. 
+📔 Me gusta lo visual por lo que también manejo herramientas de Diseño Gráfico. 
+👌 Hobbies: leer, escribir, música, física clásica y cuántica, videojuegos, observar la naturaleza, disfrutar el silencio. 
 </pre>
 <hr>
 
