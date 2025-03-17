@@ -10,21 +10,24 @@
 		<img src="https://img.shields.io/github/followers/daidevv?label=Followers" alt="daidevv" />
 	</a>
 </p>
-<br/>
 <p align="center">
 	<a href="https://github.com/daidevv">
      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=6442B8&center=true&random=false&width=435&lines=Data+Analyst;SQL;Power+BI+;Python;Excel" alt="Typing SVG" /> 
   </a>
 </p>
 
-
-<pre>
 👩‍💻 Hice una recorrida durante un par de meses como programadora hasta que descubrí la puerta que me orientó hacia las bases de datos.
+
 🔍 Recorrí varios caminos de aprendizaje del área data: Análisis de Datos, Ciencia de Datos, Machine Learning y Business Intelligence.  
-🦖 Siempre busco superarme, por lo que no me limito a las herramientas de trabajo mencionadas anteriormente. He utilizado, a modo de ejemplo: R, Tableau, Google Sheets, Looker Studio.
+
+👾 Mi foco como Analista de Datos se centra en el uso de SQL, Excel, Power BI y Python.
+
+🦖 He trabajado además con otras herramientas, a modo de ejemplo: R, Tableau, Google Sheets, Looker Studio, Amazon QuickSight. 
+
 💻 Escribí algunos artículos propios en <a href="https://medium.com/@daianaelisabetparedes" target="_blank"> Medium.</a>
+
 👌 Hobbies: leer, escribir, música, videojuegos, observar la naturaleza, disfrutar el silencio. 
-</pre>
+
 <hr>
 
 ## 💜 ¿Dónde me encuentras?...
@@ -71,7 +74,5 @@
 #### 💠"Trabaja en silencio y deja que tu éxito haga el ruido"
 
 
-  </td>
-  </tr>
-</table>
+
 
